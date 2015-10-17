@@ -1,0 +1,1 @@
+hello, this is my first work directiory in git.
